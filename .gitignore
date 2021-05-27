@@ -1,0 +1,6 @@
+__pycache__
+chatbot_model.h5
+classes.pkl
+database.py
+gogo.db
+words.pkl
